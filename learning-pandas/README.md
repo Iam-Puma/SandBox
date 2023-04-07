@@ -1,4 +1,4 @@
-![pandas](https://raw.githubusercontent.com/janfilips/SandBox/main/learning-pandas/docs/pandas.png)
+![pandas](https://raw.githubusercontent.com/Iam-Puma/SandBox/main/learning-pandas/docs/pandas.png)
 
 (EN)
 
