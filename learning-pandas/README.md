@@ -1,3 +1,5 @@
+![pandas](https://raw.githubusercontent.com/janfilips/SandBox/main/learning-pandas/docs/pandas.png)
+
 (EN)
 
 In the Data.xlsx file, you have two tables. One represents transactions (orders) that took place in the e-shop, and the other represents the database of products in the e-shop.
